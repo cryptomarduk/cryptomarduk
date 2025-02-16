@@ -1,9 +1,7 @@
 - 👋 Hi, I’m MARDUK
-- 👀 I’m interested in blockchain web3, AI,  
-- 🌱 I’m currently learning machine learning
-- 👀 I’m looking to collaborate on Community Development
+- 👀 I’m a DevOps Engineer and interested in blockchain web3, AI,  
 - 📫 How to reach me --> cryptomarduk@protonmail.com
-- 😄 Pronouns: OG Marduk
+  
 
 
 <!---
