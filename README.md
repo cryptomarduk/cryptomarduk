@@ -7,7 +7,6 @@
 <h1 align="center">Hi, I'm Marduk</h1>
 <h3 align="center">DevOps Engineer</h3>
 
-- 🔭 I’m currently working on [Movement-Labs](https://www.movementnetwork.xyz/)
 
 - 📫 How to reach me **cryptomarduk@protonmail.com**
 
